@@ -1,2 +1,0 @@
-# PIPIOJ
-PIPIOJ Problems Solution.
